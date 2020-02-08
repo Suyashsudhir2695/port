@@ -1,7 +1,7 @@
 {
     "pipelines" : [
         {
-            "name" : "gwas",
+            "name" : "GWAS",
             "steps" : [
                 "file_preprocessing",
                 "plink",
